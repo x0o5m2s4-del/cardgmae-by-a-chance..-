@@ -5,7 +5,7 @@ body {
 
   font-family: sans-serif;
 
-  background: #fff5f8;
+  background: #f2f8ff;
 
   display: flex;
   justify-content: center;
@@ -23,7 +23,7 @@ body {
 
 h1 {
 
-  color: #ff7eb6;
+  color: #5aa9ff;
 
 }
 
@@ -39,7 +39,7 @@ input {
 
   border-radius: 12px;
 
-  border: 2px solid #ffd1e6;
+  border: 2px solid #bfe3ff;
 
   font-size: 16px;
 
@@ -55,7 +55,7 @@ button {
 
   border-radius: 12px;
 
-  background: #ff9fcf;
+  background: #f7c4ff;
 
   color: white;
 
@@ -94,7 +94,7 @@ button {
 
   background: white;
 
-  border: 2px solid #ffcce0;
+  border: 2px solid #cfeaff;
 
   border-radius: 15px;
 
