@@ -11,7 +11,7 @@ firebase.initializeApp(firebaseConfig);
 
 const db = firebase.firestore();
 
-const symbols = ["🍓", "🍓", "🐰", "🐰", "🌸", "🌸"];
+const symbols = ["🐷", "🐷", "🐼", "🐼", "🐸", "🐸"];
 
 let cards = [];
 let flippedCards = [];
